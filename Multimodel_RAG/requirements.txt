@@ -1,0 +1,10 @@
+pypdf
+pymupdf
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence-transformers
+pillow
