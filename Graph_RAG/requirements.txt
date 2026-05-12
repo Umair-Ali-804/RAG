@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+networkx
+pydantic
+sentence-transformers
