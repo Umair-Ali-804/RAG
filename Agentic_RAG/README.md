@@ -41,7 +41,7 @@ The agent can break down complex queries, plan multi-step retrieval strategies, 
 
 ---
 
-## ⚙️ Configuration (`config.py`)
+##  Configuration (`config.py`)
 
 ```python
 LLM_MODEL = "stepfun/step-3.5-flash:free"   # via OpenRouter
@@ -58,7 +58,7 @@ ENABLE_QUERY_DECOMPOSITION = True
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install Dependencies
 
@@ -125,7 +125,7 @@ print(result["final_answer"])
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - `langchain`, `langchain-community`, `langchain-openai`, `langchain-core`
 - `chromadb` — vector store
@@ -135,7 +135,7 @@ print(result["final_answer"])
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 Agentic_RAG/
